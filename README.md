@@ -1,6 +1,6 @@
 
 # <samp>Atah Habibi </samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px" height="30px">
-<p><h3 align="right"></p>👋 Atah Ur Rahman GitHub Profile 👋
+<p><h3 align="right"></p>
 
 ## <samp>How are you World!</samp>
 <img src="https://github.com/user-attachments/assets/ba278f83-9f48-40bd-a923-05c42114a6bd" width="350" align="right"/>
